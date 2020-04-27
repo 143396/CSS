@@ -2,9 +2,8 @@
     This CSS file is used in the example for the <link> element.
 */
 
-div {
-    color: #f00;
-    border-bottom: solid 1px black;
-    display: inline-block;
-    line-height: 15px;
+#blah {
+  border-bottom: solid 1px black;
+  display: inline-block;
+  line-height: 15px
 }
