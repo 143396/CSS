@@ -1,5 +1,5 @@
-#blah {
+* #blah {
   border-bottom: solid 1px black;
   display: inline-block;
-  line-height: 15px
+  line-height: 15px;
 }
