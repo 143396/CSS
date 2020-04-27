@@ -1,5 +1,7 @@
-* #blah {
-  border-bottom: solid 1px black;
+/* 
+    This CSS file is used in the example for the <link> element.
+*/
+border-bottom: solid 1px black;
   display: inline-block;
   line-height: 15px;
 }
